@@ -1,0 +1,14 @@
+﻿<Window x:Class="SimulationGames.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="350">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Button x:Name="DisplayAll" Height="50" Content="Afficher tous les personnages" Click="DisplayAll_Click" />
+            <Button x:Name="EmitSoundAll" Height="50" Content="Emettre un son" Click="EmitSoundAll_Click" />
+            <Button x:Name="LaunchFight" Height="50" Content="Lancer un combat" Click="LaunchFight_Click" />
+            <Button x:Name="ChangeBehavior" Height="50" Content="Changer le comportement" Click="ChangeBehavior_Click" />
+
+        </StackPanel>
+    </Grid>
+</Window>

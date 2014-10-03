@@ -1,0 +1,16 @@
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\bin\Debug\SimulationGames.exe.config
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames.csprojResolveAssemblyReference.cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\MainWindow.baml
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\App.g.cs
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames_MarkupCompile.cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames.g.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames.Properties.Resources.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames.csproj.GenerateResource.Cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\bin\Debug\SimulationGames.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\bin\Debug\SimulationGames.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Design Patterns\SimulationGames\SimulationGames\obj\Debug\SimulationGames.pdb
+C:\Users\Diego\Desktop\SimulationGames\bin\Debug\SimulationGames.exe.config
+C:\Users\Diego\Desktop\SimulationGames\obj\Debug\SimulationGames.exe
+C:\Users\Diego\Desktop\SimulationGames\obj\Debug\SimulationGames.pdb
