@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulationGames.Comportement
+namespace SimulationGames_AvecComportement.Comportements
 {
     public abstract class ComportementCombat
     {

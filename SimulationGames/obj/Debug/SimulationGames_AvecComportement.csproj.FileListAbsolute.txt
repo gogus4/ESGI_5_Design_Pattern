@@ -1,0 +1,12 @@
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\bin\Debug\SimulationGames_AvecComportement.exe.config
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.exe
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.pdb
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\MainWindow.baml
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\App.g.cs
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement_MarkupCompile.cache
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.g.resources
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\bin\Debug\SimulationGames_AvecComportement.exe
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\bin\Debug\SimulationGames_AvecComportement.pdb

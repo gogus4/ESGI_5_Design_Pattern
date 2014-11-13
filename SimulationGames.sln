@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulationGames", "SimulationGames\SimulationGames.csproj", "{83215A82-AC03-4067-AF81-36E3F9AAC6F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulationGames_AvecComportement", "SimulationGames\SimulationGames_AvecComportement.csproj", "{83215A82-AC03-4067-AF81-36E3F9AAC6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulationGames_AvecObservateur", "SimulationGames_AvecObservateur\SimulationGames_AvecObservateur.csproj", "{D54620F1-70C0-4624-BE42-267E50C2C14C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{83215A82-AC03-4067-AF81-36E3F9AAC6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83215A82-AC03-4067-AF81-36E3F9AAC6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83215A82-AC03-4067-AF81-36E3F9AAC6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54620F1-70C0-4624-BE42-267E50C2C14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54620F1-70C0-4624-BE42-267E50C2C14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54620F1-70C0-4624-BE42-267E50C2C14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54620F1-70C0-4624-BE42-267E50C2C14C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

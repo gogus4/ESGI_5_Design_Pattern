@@ -1,0 +1,13 @@
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\bin\Debug\SimulationGames_AvecObservateur.exe.config
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\MainWindow.baml
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\App.g.cs
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur_MarkupCompile.cache
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur.g.resources
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\bin\Debug\SimulationGames_AvecObservateur.exe
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\bin\Debug\SimulationGames_AvecObservateur.pdb
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur.exe
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames_AvecObservateur\obj\Debug\SimulationGames_AvecObservateur.pdb

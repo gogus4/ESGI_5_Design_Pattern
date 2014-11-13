@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulationGames.Comportements
+namespace SimulationGames_AvecComportement.Comportements
 {
-    public class ComportementParlerPrincesse : ComportementEmettreUnSon
+    class ComportementParlerPrincesse : ComportementEmettreUnSon
     {
         public override string EmmettreSon()
         {

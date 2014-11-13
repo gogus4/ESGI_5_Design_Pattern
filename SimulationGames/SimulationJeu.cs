@@ -1,11 +1,12 @@
-﻿using SimulationGames.Comportements;
+﻿using SimulationGames_AvecComportement.Comportements;
+using SimulationGames_AvecComportement.Personnages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulationGames
+namespace SimulationGames_AvecComportement
 {
     public class SimulationJeu
     {
@@ -20,13 +21,11 @@ namespace SimulationGames
 
         public string AfficheTous()
         {
-            string message = "";
-            foreach(Personnage p in PersonnageList)
-            {
-                message += p.Afficher() + Environment.NewLine;
-            }
+            StringBuilder message = new StringBuilder();
+            foreach (Personnage p in PersonnageList)
+                message.Append(p.Afficher() + Environment.NewLine);
 
-            return message;
+            return message.ToString();
         }
 
         public void ChangerComportement()
@@ -34,11 +33,8 @@ namespace SimulationGames
             Random random = new Random();
             int numberRandom = random.Next(0, PersonnageList.Count);
 
-            if ((PersonnageList[numberRandom].ComportementCombat.GetType() != typeof(ComportementAPiedAvecHache)) && PersonnageList[numberRandom].ComportementCombat != null)
-                PersonnageList[numberRandom].ComportementCombat = new ComportementAPiedAvecHache();
-
-            else
-                PersonnageList[numberRandom].ComportementCombat = new ComportementACheval();
+            if (PersonnageList[numberRandom].GetType() != typeof(Princesse))
+                PersonnageList[numberRandom].ModifierComportementCombat(new ComportementAPiedAvecHache());
         }
 
         private void CreationPersonnages()
@@ -47,27 +43,27 @@ namespace SimulationGames
             PersonnageList.Add(new Fantassin("Fantassin !"));
             PersonnageList.Add(new Chevalier("Uther Pendragon"));
             PersonnageList.Add(new Princesse("Princesse Sarah"));
+            PersonnageList.Add(new Lancier("Lancier !"));
+            PersonnageList.Add(new Spadassin("Spadassin !"));
+            PersonnageList.Add(new Arbaletrier("Arbaletrier !"));
         }
 
         public string EmettreSonTous()
         {
-            string message = "";
+            StringBuilder message = new StringBuilder();
             foreach (Personnage p in PersonnageList)
-            {
-                message += p.ComportementEmetreUnSon.EmmettreSon() + Environment.NewLine;
-            }
-            return message;
+                message.Append(p.EmettreUnSon() + Environment.NewLine);
+
+            return message.ToString();
         }
 
         public string LancerCombat()
         {
-            string message = "";
+            StringBuilder message = new StringBuilder();
             foreach (Personnage p in PersonnageList)
-            {
-                if(p.ComportementCombat != null)
-                    message += p.ComportementCombat.Combattre() + Environment.NewLine;
-            }
-            return message;
+                message.Append(p.Combattre() + Environment.NewLine);
+
+            return message.ToString();
         }
     }
 }

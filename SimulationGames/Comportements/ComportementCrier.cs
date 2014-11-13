@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulationGames.Comportements
+namespace SimulationGames_AvecComportement.Comportements
 {
-    public class ComportementCrier : ComportementEmettreUnSon
+    class ComportementCrier : ComportementEmettreUnSon
     {
         public override string EmmettreSon()
         {
