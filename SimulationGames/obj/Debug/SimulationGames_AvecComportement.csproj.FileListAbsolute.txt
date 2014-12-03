@@ -10,3 +10,4 @@ C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\
 C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.csproj.GenerateResource.Cache
 C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\bin\Debug\SimulationGames_AvecComportement.exe
 C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\bin\Debug\SimulationGames_AvecComportement.pdb
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\SimulationGames\obj\Debug\SimulationGames_AvecComportement.csprojResolveAssemblyReference.cache

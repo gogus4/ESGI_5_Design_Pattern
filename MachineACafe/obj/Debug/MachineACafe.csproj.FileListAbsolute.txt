@@ -1,0 +1,6 @@
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\MachineACafe\bin\Debug\MachineACafe.exe.config
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\MachineACafe\obj\Debug\MachineACafe.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\MachineACafe\bin\Debug\MachineACafe.exe
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\MachineACafe\bin\Debug\MachineACafe.pdb
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\MachineACafe\obj\Debug\MachineACafe.exe
+C:\Users\Diego\Documents\GitHub\ESGI_5_Design_Pattern\MachineACafe\obj\Debug\MachineACafe.pdb
